@@ -1,0 +1,9 @@
+{
+  "directory": "/Users/dq_samanth/Documents",
+  "name": "ADP-remediation",
+  "entry": "index.js",
+  "output": "amaze.deployable.js",
+  "scope": "vista.adp.com",
+  "i18n": "i18n.json",
+  "css": "global.css"
+}

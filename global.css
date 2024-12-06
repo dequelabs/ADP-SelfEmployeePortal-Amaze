@@ -1,0 +1,11 @@
+.amaze-test {
+  display: none;
+}
+
+*:focus {
+  box-shadow: #fff 0 0 0 1px,#476bc3 0 0 0 3px!important;
+}
+
+.collapsed {
+  display: none;
+}

@@ -1,0 +1,19 @@
+{
+	"name": "my-amaze-project",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"dev": "amaze-server --sites ./",
+		"ls": "amaze-ls --sites ./"
+	},
+	"author": "Deque Systems, Inc. <devservices@deque.com>",
+	"license": "PRIVATE",
+	"dependencies": {
+		"@amaze/plugins": "^2.4.0",
+		"@amaze/server": "^2.4.0",
+		"puppeteer": "^10.4.0",
+		"jest-puppeteer": "^6.0.0",
+		"jest": "^27.3.1"
+	}
+}
